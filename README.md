@@ -34,3 +34,50 @@ Modularity: Libraries allow you to break down your program into smaller, managea
         
 Performance: Libraries often include optimized code, so using them can improve the performance of your program.
       Support and Updates: Libraries are typically maintained by a community of developers. This means you can get support from the community, benefit from bug fixes and updates, and stay up-to-date with the latest features and security patches.
+
+2. (a)
+(insert image)
+
+
+(b)
+Accessor methods are necessary for the SalesPerson class to provide controlled access to the instance variables of the class. They allow other parts of the program to retrieve the values of private variables like id, count, and salesHistory without directly accessing them. This helps maintain encapsulation and data integrity by preventing direct modifications to these variables from outside the class.
+
+
+(c)(i)
+(insert image)
+
+
+(c)(ii)
+
+
+A negative effect of a future change in the design of the Sales object on this suite of programs could be that the SalesPerson class might not work correctly with the new design if it depends on specific properties or methods of the Sales object. For example, if the Sales object is modified to include a new property or method that the SalesPerson class relies on, the SalesPerson class may need to be updated to accommodate the change. Failure to do so could lead to errors or unexpected behavior in the program.
+
+
+(d)
+(insert image)
+
+
+(e)
+(insert image)
+
+
+(f)
+(insert image)
+
+
+(g)
+(insert image)
+
+
+(h) To allow salary calculations, changes must be made to the SalesPerson and Sales classes:
+
+
+Sales class: Add a date attribute to track the date of each sale, allowing filtering of sales by month.
+SalesPerson class: Add a method to calculate the salary based on the sales made during a specific month
+
+
+(i) Polymorphism is evident in this suite of programs in the following ways:
+The only form of polymorphism here is overloading, as there are two different constructors in the SalesPerson class.
+
+
+
