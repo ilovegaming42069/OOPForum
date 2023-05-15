@@ -36,7 +36,7 @@ Performance: Libraries often include optimized code, so using them can improve t
       Support and Updates: Libraries are typically maintained by a community of developers. This means you can get support from the community, benefit from bug fixes and updates, and stay up-to-date with the latest features and security patches.
 
 2. (a)
-(insert image)
+!(images/image1.png)
 
 
 (b)
