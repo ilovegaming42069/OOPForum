@@ -73,11 +73,12 @@ A negative effect of a future change in the design of the Sales object on this s
 
 
 Sales class: Add a date attribute to track the date of each sale, allowing filtering of sales by month.
+
+
 SalesPerson class: Add a method to calculate the salary based on the sales made during a specific month
 
 
-(i) Polymorphism is evident in this suite of programs in the following ways:
-The only form of polymorphism here is overloading, as there are two different constructors in the SalesPerson class.
+(i)The only form of polymorphism here is overloading, as there are two different constructors in the SalesPerson class.
 
 
 
