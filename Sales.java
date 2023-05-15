@@ -1,10 +1,10 @@
 public class Sales {
 
-    private String itemId;     // id of the item
+    private String itemId;
 
-    private double value;      // the price of one item
+    private double value;    
 
-    private int quantity;      // the number of the items sold
+    private int quantity;     
 
     public Sales(String itemId, double value, int quantity) {
         this.itemId = itemId;
