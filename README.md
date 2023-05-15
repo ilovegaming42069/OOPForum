@@ -36,7 +36,7 @@ Performance: Libraries often include optimized code, so using them can improve t
       Support and Updates: Libraries are typically maintained by a community of developers. This means you can get support from the community, benefit from bug fixes and updates, and stay up-to-date with the latest features and security patches.
 
 2. (a)
-!(images/image1.png)
+![image1](images/image1.png)
 
 
 (b)
@@ -44,7 +44,7 @@ Accessor methods are necessary for the SalesPerson class to provide controlled a
 
 
 (c)(i)
-(insert image)
+![image1](images/image2.png)
 
 
 (c)(ii)
@@ -54,19 +54,19 @@ A negative effect of a future change in the design of the Sales object on this s
 
 
 (d)
-(insert image)
+![image1](images/image3.png)
 
 
 (e)
-(insert image)
+![image1](images/image4.png)
 
 
 (f)
-(insert image)
+![image1](images/image5.png)
 
 
 (g)
-(insert image)
+![image1](images/image6.png)
 
 
 (h) To allow salary calculations, changes must be made to the SalesPerson and Sales classes:
