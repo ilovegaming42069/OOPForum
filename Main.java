@@ -35,7 +35,7 @@ public class Main {
         for (int i = 1; i < salesPeople.length; i++) {
             SalesPerson person = salesPeople[i];
             if (person == null) {
-                continue; // Skip null objects
+                continue;
             }
             double sales = person.calcTotalSales();
             if (sales > maxSales) {
