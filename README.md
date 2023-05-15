@@ -2,12 +2,15 @@
 
 1. (a)
 
+
     Class: Think of a class as a blueprint or a template. It defines the common properties and behaviors that objects of that type should have. For example, a class called "Product" would define what a product is and what it can do.
     
     
     Instantiation: When you create an instance of a class, you're basically using the blueprint to create a specific object. It's like building something based on the blueprint. For example, if you have a class "Product," an instantiation of that class would be a specific product with its own unique details, like a smartphone with a particular brand, model, and price.
 
+
 1. (b)
+
 
     Inheritance: Inheritance allows classes to inherit properties and behaviors from other classes. It's like passing down traits from parent to child. In the administration program, two examples of inheritance could be:
         
